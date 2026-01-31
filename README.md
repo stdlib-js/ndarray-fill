@@ -48,6 +48,11 @@ limitations under the License.
 ## Usage
 
 ```javascript
+import fill from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-fill@esm/index.mjs';
+```
+The previous example will load the latest bundled code from the esm branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/ndarray-fill/tags). For example,
+
+```javascript
 import fill from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-fill@v0.1.0-esm/index.mjs';
 ```
 
@@ -109,7 +114,7 @@ The function accepts the following arguments:
 
 import zeros from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-zeros@esm/index.mjs';
 import ndarray2array from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-to-array@esm/index.mjs';
-import fill from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-fill@v0.1.0-esm/index.mjs';
+import fill from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-fill@esm/index.mjs';
 
 // Create a zero-filled ndarray:
 var x = zeros( [ 5, 2 ], {
