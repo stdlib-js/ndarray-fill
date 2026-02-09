@@ -48,7 +48,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import fill from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-fill@deno/mod.js';
+import fill from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-fill@v0.1.1-deno/mod.js';
 ```
 
 #### fill( x, value )
@@ -104,7 +104,7 @@ The function accepts the following arguments:
 ```javascript
 import zeros from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-zeros@deno/mod.js';
 import ndarray2array from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-to-array@deno/mod.js';
-import fill from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-fill@deno/mod.js';
+import fill from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-fill@v0.1.1-deno/mod.js';
 
 // Create a zero-filled ndarray:
 var x = zeros( [ 5, 2 ], {
