@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-05-21)
+## Unreleased (2026-05-24)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`a2fcfdb`](https://github.com/stdlib-js/stdlib/commit/a2fcfdb247058815043c86fa2d2f93a4b6a7a0c7) - **docs:** improve doctests for ndarray instances in `ndarray/fill` [(#12248)](https://github.com/stdlib-js/stdlib/pull/12248) _(by Nightt)_
 -   [`3491dcf`](https://github.com/stdlib-js/stdlib/commit/3491dcff5f7dd2e56caab6e3f4cb4ed6460cb577) - **bench:** refactor to use string interpolation in `ndarray/fill` [(#11074)](https://github.com/stdlib-js/stdlib/pull/11074) _(by Partha Das)_
 
 </details>
@@ -24,8 +25,9 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
+-   Nightt
 -   Partha Das
 
 </section>
