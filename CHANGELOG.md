@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-11-21)
+## Unreleased (2026-11-27)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`991f143`](https://github.com/stdlib-js/stdlib/commit/991f1436b29d5952349dcbe85c0aa07ee8ee0714) - **test:** use dedicated zero-dimensional tensor constructor in `ndarray/fill` [(#16864)](https://github.com/stdlib-js/stdlib/pull/16864) _(by Anshu Raj Bisoyi)_
 -   [`a2fcfdb`](https://github.com/stdlib-js/stdlib/commit/a2fcfdb247058815043c86fa2d2f93a4b6a7a0c7) - **docs:** improve doctests for ndarray instances in `ndarray/fill` [(#12248)](https://github.com/stdlib-js/stdlib/pull/12248) _(by Nightt)_
 -   [`3491dcf`](https://github.com/stdlib-js/stdlib/commit/3491dcff5f7dd2e56caab6e3f4cb4ed6460cb577) - **bench:** refactor to use string interpolation in `ndarray/fill` [(#11074)](https://github.com/stdlib-js/stdlib/pull/11074) _(by Partha Das)_
 
@@ -25,8 +26,9 @@
 
 ### Contributors
 
-A total of 2 people contributed to this release. Thank you to the following contributors:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
+-   Anshu Raj Bisoyi
 -   Nightt
 -   Partha Das
 
